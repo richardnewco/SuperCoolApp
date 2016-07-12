@@ -38,6 +38,7 @@ class ViewController: UIViewController {
     @IBAction func blueButton(sender: AnyObject) {
         
         blueSnoopyImage.hidden = true
+        //comment
    
     }
    
